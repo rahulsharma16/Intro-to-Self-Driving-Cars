@@ -1,5 +1,5 @@
-# Intro-to-Self-Driving-Cars
-Bayesian Learning denotes 
+# Bayesian Learning
+Bayesian Learning denotes probability distribution localization calculated from Bayes' Rule.
 
 Two of the major assignments/projects completed here were:
 1. Histogram Filter
