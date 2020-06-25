@@ -1,5 +1,5 @@
 # Performance Programming in C++
 This chapter mainly focuses on optimizing code in C++ (dead code, static, variables by reference and reserving space) and finally optimizing the previous C++ histogram code.
 
-Implemented code in \*\_improved files (blur, normalize, sense etc.) and tested it by measuring running time in main.cpp. 
-Read instructions.md for more details.
+Implemented code in \*\_improved files ([blur](https://github.com/rahulsharma16/Intro-to-Self-Driving-Cars/blob/master/4.Performance%20Programming/optimized_code/blur_improved.cpp), [normalize](https://github.com/rahulsharma16/Intro-to-Self-Driving-Cars/blob/master/4.Performance%20Programming/optimized_code/normalize_improved.cpp), [move](https://github.com/rahulsharma16/Intro-to-Self-Driving-Cars/blob/master/4.Performance%20Programming/optimized_code/move_improved.cpp), [sense](https://github.com/rahulsharma16/Intro-to-Self-Driving-Cars/blob/master/4.Performance%20Programming/optimized_code/sense_improved.cpp) etc.) and tested it by measuring running time in [main.cpp](https://github.com/rahulsharma16/Intro-to-Self-Driving-Cars/blob/master/4.Performance%20Programming/optimized_code/main.cpp). 
+Read [instructions.md](https://github.com/rahulsharma16/Intro-to-Self-Driving-Cars/blob/master/4.Performance%20Programming/instructions.md) for more details.
